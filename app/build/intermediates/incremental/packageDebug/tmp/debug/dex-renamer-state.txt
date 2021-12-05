@@ -1,0 +1,4 @@
+#Tue Jul 02 09:25:53 IST 2019
+base.0=D\:\\new\\Inventory-Management-System-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
